@@ -1,0 +1,1 @@
+- Aproveitando os exercícios para práticar as boas práticas de programação a partir do 5 exercício.
